@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Amit Meghanani",
+    "label": "PhD",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "ameghanani1@sheffield.ac.uk",
+    "phone": "",
+    "url": "https://sites.google.com/view/amitmeghanani/home",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Department of Computer Science",
+      "postalCode": "",
+      "city": "Sheffield",
+      "countryCode": "UK",
+      "region": "England"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "AmitMeghanani",
+        "url": "https://twitter.com/AmitMeghanani"
       }
     ]
   },
