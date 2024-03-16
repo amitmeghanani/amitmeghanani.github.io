@@ -2,24 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD @ UKRI CDT in Speech and Language Technologies
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Computer Science</p>
+    <p>The University of Sheffield, UK</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student at [UKRI CDT in Speech and Language Technologies](https://slt-cdt.sheffield.ac.uk/) under the supervision of Prof. [Thomas Hain](https://staffwww.dcs.shef.ac.uk/people/T.Hain/) , University of Sheffield.  I am also a member of  [SPandH](https://www.sheffield.ac.uk/dcs/research/groups/spandh) and  [Machine Intelligence for Natural Interfaces (MINI)](https://mini.dcs.shef.ac.uk/)  research group. Currently, I am working on self-supervised learning for speech, disentangled speech representations, cost-effective self-supervised fine-tuning of self-supervised learning based speech models for task-specific speech representations. Acoustic word/sub-word embeddings.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before joining my PhD, I worked as a senior data scientist at Publicis Sapient.  Before that,  I did my M.Tech (Research) from the Dept. of Electrical Engineering [Indian Institute of Science](https://iisc.ac.in/) (IISc), Bangalore, working for [Medical Intelligence and Language Engineering (MILE)](http://mile.ee.iisc.ac.in/) lab under the supervision of  [Prof. A. G. Ramakrishnan](http://mile.ee.iisc.ac.in/AGR/index.htm). I was a project assoicate at the same lab after finishing my masters for 3 months. During my term at IISc, I have worked on various research topics like speaker recognition, speech recognition, natural language processing for social media , applied machine and deep learning for recognising cognitive impairments using clinical data, etc.
