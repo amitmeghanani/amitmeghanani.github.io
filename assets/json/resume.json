@@ -24,24 +24,24 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Publicis Sapient, Bengaluru, India",
+      "position": "Senior Associate - Data Science",
+      "url": "",
+      "startDate": "2020-11-23",
+      "endDate": "2021-08-14",
+      "summary": "",
+      "highlights":
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights":
     }
   ],
   "education": [
@@ -54,18 +54,18 @@
       "startDate": "2021-09-19",
       "endDate": "2025-09-19",
       "score": "",
-      "courses": [""]
+      "courses":
     },
     {
-      "institution": "University of Sheffield, Sheffield, UK",
-      "location": "Sheffield, UK",
-      "url": "https://www.sheffield.ac.uk/",
-      "area": "Machine Learning for Speech and Language Tech.",
-      "studyType": "PhD",
-      "startDate": "2021-09-19",
-      "endDate": "2025-09-19",
+      "institution": "National Institute of Technology, Silchar, India",
+      "location": "Assam, India",
+      "url": "http://www.nits.ac.in/",
+      "area": "Electronics and Communication Engineering",
+      "studyType": "B.Tech",
+      "startDate": "2012-07-29",
+      "endDate": "2016-05-14",
       "score": "",
-      "courses": [""]
+      "courses": 
     },
     {
       "institution": "Indian Institute of Science, Bengaluru, India",
@@ -76,16 +76,16 @@
       "startDate": "2017-07-24",
       "endDate": "2020-06-27",
       "score": "",
-      "courses": [""]
+      "courses":
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "url": "",
+      "summary": ""
     }
   ],
   "certificates": [
@@ -210,12 +210,12 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "",
+      "summary": "",
+      "highlights": ,
+      "startDate": "",
+      "endDate": "",
+      "url": ""
     }
   ]
 }
