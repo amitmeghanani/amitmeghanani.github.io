@@ -38,16 +38,11 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Self-supervised learning
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - cost-effective self-supervised fine-tuning methods
+        - Disentangled self-supervised speech representations
+    - title: Machine learning for speech processing
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Acoustic word/sub-word embeddings
+        - speech recogniton, query-by-example search, keyword spotting, speaker recognition, etc
