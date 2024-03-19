@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD @ UKRI CDT in Speech and Language Technologies
 
