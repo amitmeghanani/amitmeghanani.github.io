@@ -11,14 +11,10 @@
   contents:
     - title: PhD
       institution: The University of Sheffield, Sheffield, UK.
-      year: 2021 - 2025
+      year: Sep 2021 - Sep 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - [UKRI CDT in Speech and Language Tech.]https://sltcdt.sites.sheffield.ac.uk/home(https://sltcdt.sites.sheffield.ac.uk/home), Dept. of Computer Science
+        
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
