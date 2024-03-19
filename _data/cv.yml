@@ -38,7 +38,7 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Self-supervised learning
+    - title: Self-supervised learning for speech
       items:
         - cost-effective self-supervised fine-tuning methods
         - Disentangled self-supervised speech representations
