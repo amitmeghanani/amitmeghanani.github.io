@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented poster ''Deriving Translationa Acoustic Sub-word Embeddings'' at ASRU 2023 :sparkles: :smile:
+Presented poster ''Deriving Translational Acoustic Sub-word Embeddings'' at ASRU 2023 :sparkles: :smile:
