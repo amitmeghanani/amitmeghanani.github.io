@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Recent work ''Towards a Unified Benchmark for Arabic Pronunciation Assessment: Quranic Recitation as Case Study.'' has been accepted at Interspeech 2025.
+As a participant in the [SDAIA Winter School](https://www.aiwinterschool.com/#speakers_and_researchers), I collaborated on the paper "Towards a Unified Benchmark for Arabic Pronunciation Assessment: Quranic Recitation as a Case Study," which has been accepted at Interspeech 2025.
