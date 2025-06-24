@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Poster presentation of the paper ''LASER: Learning by Aligning Self-supervised Representations of Speech for Improving Content-related Tasks.'' has been accepted at Interspeech 2024.
+Poster presentation of the paper ''LASER: Learning by Aligning Self-supervised Representations of Speech for Improving Content-related Tasks.'' at Interspeech 2024.
